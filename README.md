@@ -1,2 +1,3 @@
-# getting-started-with-github
+# Getting Started with GitHub
+
 A GitHub tutorial workshop repository.
